@@ -57,7 +57,7 @@ FROM titles;
 
 -- Step 6 after database completion
 -- 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
---SELECT employees.emp_no, employees.last_name, employees.first_name, departments.dept_name
+    SELECT employees.emp_no, employees.last_name, employees.first_name, departments.dept_name
 	FROM employees
 	JOIN dept_emp 
 	ON employees.emp_no = dept_emp.emp_no
