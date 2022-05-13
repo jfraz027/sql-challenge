@@ -16,7 +16,7 @@ Create tables in the correct order to handle foreign keys.
 - Utilize the provided information to create a table schema for each of the six CSV files. 
 - Import each CSV file into the corresponding SQL table.
 - Import the data in the same order that the tables were created and account for the headers when importing.
-- 
+
 ![image](https://user-images.githubusercontent.com/99145651/168341511-d514efbb-f730-4df0-bcad-287d9337454c.png)
 ![image](https://user-images.githubusercontent.com/99145651/168342568-dc93be29-e2c1-4346-825d-f85ed652160f.png)
 ![image](https://user-images.githubusercontent.com/99145651/168342826-c4b61a95-fbc3-46b7-b075-256f45543f52.png)
