@@ -93,4 +93,4 @@ Utilize the following steps:
 ![image](https://user-images.githubusercontent.com/99145651/168481241-4fc30c97-9ce1-4686-b37c-0287a5b7d605.png)
 
 ## Summary
-The analysis of of the data shown that salaries among the various employess were comparable. Understandably, the senior level positions earned the most. However, THe majority of the employees had the lower salaries around $40,000 annually. Senior Staff earned upwards of $60,000. Interesting, across the various tittles, average salaries had minimum differences. 
+The analysis of the data shown that salaries among the various employees were comparable. Understandably, the senior level positions earned the most with the majority of the employees having the lower salaries around $40,000 annually. Senior staff earned upwards of $60,000. Interestingly, across the various tittles, average salaries had minimum differences. 
