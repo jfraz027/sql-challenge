@@ -32,7 +32,7 @@ After the information has been gather to complete database, the following steps 
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-![image](https://user-images.githubusercontent.com/99145651/168344126-933c9b8a-a2ea-4d9f-b63d-c52ebf063d6b.png)
+![image](https://user-images.githubusercontent.com/99145651/168637567-c988fc27-4025-4c22-9aff-f0484d4a82fc.png)
 
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
