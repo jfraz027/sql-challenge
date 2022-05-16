@@ -17,11 +17,17 @@ Create tables in the correct order to handle foreign keys.
 - Import each CSV file into the corresponding SQL table.
 - Import the data in the same order that the tables were created and account for the headers when importing.
 
+# Employees 
 ![image](https://user-images.githubusercontent.com/99145651/168341511-d514efbb-f730-4df0-bcad-287d9337454c.png)
+# Departments
 ![image](https://user-images.githubusercontent.com/99145651/168342568-dc93be29-e2c1-4346-825d-f85ed652160f.png)
+# Dept employees
 ![image](https://user-images.githubusercontent.com/99145651/168342826-c4b61a95-fbc3-46b7-b075-256f45543f52.png)
+# Dept managers
 ![image](https://user-images.githubusercontent.com/99145651/168342948-435a6697-c84e-4c93-b203-e788f5b0b8cb.png)
+# Salaries
 ![image](https://user-images.githubusercontent.com/99145651/168343226-487a5244-d8cc-4891-aeba-f0220c6f17e9.png)
+# Titles
 ![image](https://user-images.githubusercontent.com/99145651/168343345-22ae1fae-2267-4d42-9ebf-ec2c69c1cb22.png)
 
 
