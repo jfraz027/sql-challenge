@@ -23,6 +23,7 @@ FROM titles;
 	SELECT employees.emp_no AS Employee_Number, employees.last_name, employees.first_name, employees.sex, salaries.salary
 	FROM employees
 	JOIN salaries ON employees.emp_no = salaries.emp_no
+	ORDER BY employees.emp_no
 
 -- Step 2 after database completion
 -- 2. List first name, last name, and hire date for employees who were hired in 1986.
